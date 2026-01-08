@@ -2,13 +2,13 @@
 
 
 
-\*\*Student Name:\*\* Venkata Satya Bhaskar Bezawada  
+\*\*Student Name:\*\* Arjun M Pillai  
 
-\*\*Student ID:\*\* 25072073  
+\*\*Student ID:\*\* 25071981 
 
-\*\*Email:\*\* :  
+\*\*Email:\*\* :  arjunmpillai999@gmail.com
 
-\*\*Date:\*\* January 2026  
+\*\*Date:\*\* 2nd January 2026
 
 
 
