@@ -1,0 +1,3 @@
+Customers Loaded: 25
+Products Loaded: 20
+Sales Loaded: 35
